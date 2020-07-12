@@ -1,6 +1,26 @@
 ## `ts-node-starter`
 
-### Tools
+## Getting starterd
+
+1. Clone the repository:
+
+```bash
+git clone git@github.com:ziishaned/ts-node-starter.git
+```
+
+2. Install dependencies:
+
+```bash
+yarn install
+```
+
+3. Run development server:
+
+```bash
+yarn dev
+```
+
+## Tools
 
 #### [typesync](https://www.npmjs.com/package/typesync)
 
