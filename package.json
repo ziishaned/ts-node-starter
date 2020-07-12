@@ -1,0 +1,17 @@
+{
+  "name": "ts-node-starter",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon --exec ts-node index.ts"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.6"
+  },
+  "devDependencies": {
+    "@types/nodemon": "^1.19.0"
+  }
+}
